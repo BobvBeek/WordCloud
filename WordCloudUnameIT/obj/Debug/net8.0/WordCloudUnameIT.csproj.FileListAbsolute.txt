@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\WordCloudUnameIT\bin\Debug\net8.0\WordCloudUnameIT.exe
+C:\Users\Bob\source\repos\WordCloudUnameIT\bin\Debug\net8.0\WordCloudUnameIT.deps.json
+C:\Users\Bob\source\repos\WordCloudUnameIT\bin\Debug\net8.0\WordCloudUnameIT.runtimeconfig.json
+C:\Users\Bob\source\repos\WordCloudUnameIT\bin\Debug\net8.0\WordCloudUnameIT.dll
+C:\Users\Bob\source\repos\WordCloudUnameIT\bin\Debug\net8.0\WordCloudUnameIT.pdb
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.AssemblyInfo.cs
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.dll
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\refint\WordCloudUnameIT.dll
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.pdb
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\WordCloudUnameIT.genruntimeconfig.cache
+C:\Users\Bob\source\repos\WordCloudUnameIT\obj\Debug\net8.0\ref\WordCloudUnameIT.dll
